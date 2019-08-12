@@ -1,0 +1,34 @@
+.margin{width:1243px; margin: auto;}
+header .box{height: 119px;}
+header .box a{float: left;margin-top:26px;}
+header .box span{float: right; font: 24px/119px "";color: #000;margin-right: 13px;}
+.banner{ background: #E31939;}
+.banner .b-box{height: 594px;}
+.banner .b-box a{display: block; float: left;margin-top: 50px;}
+.banner .b-box a img{height: 486px; width: 666px;}
+.banner .b-box .use{height: 500px; width: 433px;background: #fff;float: right;margin-top: 50px;}
+.banner .b-box .use .zt{ width: 433px;font: 12px/22px "";}
+.banner .b-box .use .zt a{margin: 0;float: none; display: inline;}
+.banner .b-box .use h4{font: 24px/84px "";padding-left: 26px;}
+.banner .b-box .use h4 .zc{display: inline-block; font: 14px/84px "";float: right; color: #e31939; margin-right: 27px; margin-top: 0;}
+.banner .b-box .sign{height: 416px;}
+.banner .b-box .sign p{width: 381px; height: 48px;border:1px solid #dddddd;margin: 26px 0 0 25px;}
+.banner .b-box .sign p i{float: left;}
+.banner .b-box .sign p .t1{height: 23px; width: 23px;background: url(../img/t1.png) no-repeat;margin: 12px;}
+.banner .b-box .sign p .t2{height: 25px; width: 23px;background: url(../img/t2.png) no-repeat;margin: 12px;}
+.banner .b-box .sign p input{float: left;border:0; width: 331px; height: 48px;font-size: 18px;}
+
+.banner .b-box .sign .zd{border: 0;}
+.banner .b-box .sign .zd .cbx{width: 14px; height: 14px; float: left;}
+.banner .b-box .sign .zd b{float: left;}
+.banner .b-box .sign .zd a{float: right; margin: 0;}
+.banner .b-box .sign .bon{display: block; margin: 24px 0 0 26px;width: 375px; height: 44px; background: #e31939;font: 16px/44px "";color: #fff;text-align: center;}
+
+
+footer .f-box{height: 400px;}
+footer .f-box .t{display: flex; margin: 81px 0 0 228px;font: 14px/25px "";}
+footer .f-box .t span{margin: 0 15px;}
+footer .f-box .c{text-align: center;font: 14px/23px ""; color: #7d667d;}
+footer .f-box .b{font: 14px/23px ""; color: #7d667d;text-align: center;}
+footer .f-box b{font: 14px/23px ""; color: #7d667d;text-align: center; display: block;}
+
